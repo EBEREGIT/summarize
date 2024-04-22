@@ -55,8 +55,7 @@ console.log(result);
 
 ## Dependencies
 - [OpenAI](https://openai.com/)
-- [Nodejs](https://nodejs.org/en)
-- [Langchain](https://js.langchain.com/docs/get_started/introduction)
+- [Langchain](https://js.langchain.com/)
 
 ## Documentation
 See https://github.com/EBEREGIT/summarize/blob/master/README.md

@@ -1,6 +1,6 @@
 {
   "name": "@ebereplenty/summarize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Summarizes text or conversation using chatGPT by OpenAI",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -31,5 +31,5 @@
     "type": "git",
     "url": "https://github.com/EBEREGIT/summarize"
   },
-  "homepage": "https://github.com/EBEREGIT/summarize/README.md"
+  "homepage": "https://github.com/EBEREGIT/summarize/blob/master/README.md"
 }
