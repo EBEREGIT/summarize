@@ -1,0 +1,35 @@
+{
+  "name": "@ebereplenty/summarize",
+  "version": "1.0.0",
+  "description": "Summarizes text or conversation using chatGPT by OpenAI",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "bundle": "tsup src/index.ts"
+  },
+  "keywords": [
+    "Summarizes",
+    "summarize",
+    "Summary",
+    "summarizing",
+    "Summarises",
+    "summarise",
+    "summarising"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@langchain/openai": "^0.0.28",
+    "langchain": "^0.1.34"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EBEREGIT/summarize"
+  },
+  "homepage": "https://github.com/EBEREGIT/summarize/README.md"
+}
