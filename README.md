@@ -34,7 +34,7 @@ console.log(
 ```
 
 ### Conversation
-This can be an array of chat like the one found [here](https://github.com/EBEREGIT/summarize/conversation.js)
+This can be an array of chat like the one found [here](https://github.com/EBEREGIT/summarize/blob/master/conversation.js)
 
 ```javascript
 import { summarize } from "@ebereplenty/summarize";
@@ -54,7 +54,7 @@ console.log(result);
 - [Langchain](https://js.langchain.com/docs/get_started/introduction)
 
 ## Documentation
-See https://github.com/EBEREGIT/summarize/README.md
+See https://github.com/EBEREGIT/summarize/blob/master/README.md
 
 ## Author
 Njoku Samson Ebere: https://linktr.ee/ebereplenty
