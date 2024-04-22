@@ -13,6 +13,11 @@ yarn add @ebereplenty/summarize
 ```
 
 ## Usage
+### Create Openai API Key
+- Navigate to https://platform.openai.com/api-keys to create an API key.
+- Copy the key into a secure location such as a `.env` file.
+- Reference the key in the code below
+
 The examples below are for ECMAScript Modules (ESM). You can change from `import { summarize } from "@ebereplenty/summarize";` to `const summarize = require("@ebereplenty/summarize");` if you are using CommonJS (CJS)
 
 ### Text
