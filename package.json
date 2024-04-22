@@ -1,6 +1,6 @@
 {
   "name": "@ebereplenty/summarize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Summarizes text or conversation using chatGPT by OpenAI",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
